@@ -164,3 +164,9 @@ If you want, I can also:
 - design a GitHub-based youth community (legal workaround)  
 
 Just tell me which direction you want.
+
+---
+
+## Related Resources
+
+This discussion highlights how Australia's ban represents a compliance-first approach over sustainable outcomes. For more insights on how compliance-driven strategies affect businesses and policy-making, check out the [**compliance-driven-businesses**](https://github.com/yenbuilds/compliance-driven-businesses) repository.
