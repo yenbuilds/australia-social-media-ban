@@ -1,3 +1,6 @@
+This piece has been written with the help of ChatGPT. Opinions are mine.
+
+
 # Australia’s Social-Media Ban for Minors: A Political Cop-Out Masquerading as Protection
 
 Australia’s proposed social-media ban for minors is being sold as a bold, protective intervention. In reality, it is a **cop-out**—a policy crafted for headlines, not outcomes. It avoids confronting the true digital risks facing young people, demonstrates little understanding of the modern online ecosystem, and provides **no meaningful alternatives** for education, resilience or digital literacy. It is a politics-first solution to a complex social problem that requires anything *but* politics-first thinking.
