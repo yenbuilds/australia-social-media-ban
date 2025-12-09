@@ -164,3 +164,9 @@ If you want, I can also:
 - design a GitHub-based youth community (legal workaround)  
 
 Just tell me which direction you want.
+
+---
+
+## Related Resources
+
+For more insights on building businesses that focus on compliance over growth, check out the [**compliance-driven-businesses**](https://github.com/yenbuilds/compliance-driven-businesses) repository.
