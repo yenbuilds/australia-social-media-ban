@@ -192,3 +192,6 @@ This policy is not about safety.
 It is about optics.
 
 And both voters and parents should demand far more than a headline and a hollow gesture.
+
+TLDR; A simplistic ban that doesn’t change any incentives, cannot be enforced, ignores the broader media ecosystem, creates perverse incentives, punishes everyone except the wrongdoers, and invites a new class of parasitic compliance middlemen — that’s not good policy. That’s feel-good stupidity.
+
