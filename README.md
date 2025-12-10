@@ -1,7 +1,5 @@
 This piece has been written with the help of ChatGPT. Opinions are mine.
 
-TLDR -- A simplistic ban that doesn’t change any incentives, cannot be enforced, ignores the broader media ecosystem, creates perverse incentives, punishes everyone except the wrongdoers, and invites a new class of parasitic compliance middlemen — that’s not good policy. That’s feel-good stupidity.
-
 # How Minors Can Stay Educated Despite Australia’s Social-Media Ban
 
 Australia’s social-media ban for minors solves nothing and creates new problems. It removes kids from the digital world **without replacing the benefits they actually *need***: cultural literacy, media-analysis skills, digital communication competence, and the ability to navigate modern social ecosystems safely.
